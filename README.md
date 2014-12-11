@@ -1,4 +1,6 @@
-overspenders
+World of Tanks Info for Our Group
 ============
 
-World of Tanks Modpack and Info
+[Noob Guide] (http://forum.worldoftanks.com/index.php?/topic/287327-kingalphyns-noob-friendly-tips/)
+
+Mod pack is in repo.
