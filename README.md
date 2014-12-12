@@ -6,8 +6,9 @@ World of Tanks Info for Our Group
 [Humor] (http://forum.worldoftanks.asia/index.php?/topic/16583-the-definitive-noob-guide-to-playing-tanks/)
 ---
 Helpful videos by The Mighty Jingles from EU server:
-[How not to suck, pt. 1] (https://www.youtube.com/watch?v=HX0znHSeDMU)
-[How not to suck, pt. 2] (https://www.youtube.com/watch?v=xKeNC2jAqvI)
+* [How not to suck, pt. 1] (https://www.youtube.com/watch?v=HX0znHSeDMU)
+* [How not to suck, pt. 2] (https://www.youtube.com/watch?v=xKeNC2jAqvI)
+
 ---
 [Mod pack] (https://github.com/mquinnv/overspenders/raw/master/q-modpack.zip)
 
