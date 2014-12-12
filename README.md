@@ -8,7 +8,6 @@ World of Tanks Info for Our Group
 Helpful videos by The Mighty Jingles from EU server:
 [How not to suck, pt. 1] (https://www.youtube.com/watch?v=HX0znHSeDMU)
 [How not to suck, pt. 2] (https://www.youtube.com/watch?v=xKeNC2jAqvI)
-He also has all sorts of good tank reviews
 ---
 [Mod pack] (https://github.com/mquinnv/overspenders/raw/master/q-modpack.zip)
 
