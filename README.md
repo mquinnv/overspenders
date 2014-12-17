@@ -11,6 +11,7 @@ Helpful videos by The Mighty Jingles from EU server:
 
 ---
 [Mod pack] (https://github.com/mquinnv/overspenders/raw/master/q-modpack.zip)
+[Alt Mod pack] (https://github.com/mquinnv/overspenders/raw/master/melty.tar.bz2)
 
 To install, simply unzip to c:\Games\World_of_Tanks
 
